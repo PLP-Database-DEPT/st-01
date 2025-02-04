@@ -1,4 +1,4 @@
-# 📝 Assignment: Fundamentals of Software Testing  
+# 📝 Assignment 1: Fundamentals of Software Testing  
 
 ## 🎯 Learning Objectives  
 - Understand the importance of software testing in software development.  
