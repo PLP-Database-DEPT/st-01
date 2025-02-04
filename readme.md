@@ -17,7 +17,7 @@
 ---
 
 ## 📝 Submission Instructions  
-📂 Create a file named **answers.md**.  
+📂 Write all your answers in **answers.md** file.  
 ✍️ Answer each question concisely and provide examples where applicable.  
 🗣️ Structure your responses clearly, using headings and bullet points for readability.  
 
@@ -38,4 +38,4 @@
 ---
 
 
-Happy Learning! 🚀  
+Happy Learning🚀  
